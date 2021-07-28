@@ -1,2 +1,0 @@
-change 1 buy 10 apples
-change 2 buy 15 pears
